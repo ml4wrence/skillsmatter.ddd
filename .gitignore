@@ -1,0 +1,6 @@
+
+Test/obj/
+Test/bin/
+SkillsMatter.DDD/bin
+SkillsMatter.DDD/obj
+*.cache
